@@ -1,1 +1,1 @@
-# Chrome-Dino-Game-Bot
+This is an AI bot for the google chrome dino game. open the game then run the code in your terminal then close the terminal tab and let the bot play until it learns. this is on a 1920x1080 laptop. Adjust pixel coordinates according to your screen dimensions.
